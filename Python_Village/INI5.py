@@ -1,6 +1,10 @@
 #!/usr/bin/python
 
 
+# Working with Files
+# http://rosalind.info/problems/ini5/
+
+
 # Function which iterate over file and write odd lines in new file
 def oddLinesInFile(input_file, output_file):
     with open(output_file, 'w') as out_file:
