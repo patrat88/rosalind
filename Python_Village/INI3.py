@@ -1,6 +1,10 @@
 #!/usr/bin/python
 
 
+# Strings and Lists
+# http://rosalind.info/problems/ini3/
+
+
 def slicing(text,a,b,c,d):
     first = text[a:b+1]
     second = text[c:d+1]
